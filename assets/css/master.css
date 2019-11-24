@@ -1,0 +1,72 @@
+.pads {
+  padding: 1rem 1rem;
+}
+.nosp {
+  margin: 0;
+}
+a {
+  color: #eacf9b;
+}
+a:hover {
+  text-decoration: none;
+}
+body {
+  padding: 2rem 0;
+  background-color: #391326;
+}
+h2{
+  font-size: 3em;
+  color: #87906f;
+}
+/* nav  */
+nav {
+  background: #682a2e;
+}
+/* ---------------------nav----------------- */
+section {
+  height: 70vh;
+  background: #682a2e;
+  color: #eacf9b;
+  padding: 2rem 2.5rem;
+}
+#welcome {
+  background: url("../img/bh.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #eacf9b;
+}
+.row {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #eacf9b;
+}
+#welcome h1 {
+  font-size: 4rem;
+}
+#chi {
+}
+#chi img {
+  max-width: 99%;
+}
+#wine {
+  background-image: url("https://www.matchingfoodandwine.com/files/blogattachments/top/wine-rack.-copyright-dmitrimaruta-at-fotolia.com@2x.jpg");
+}
+#bquote,#vale,#tagliere,#famiglia{
+  height: 45vh;
+}
+#dove{
+  background-image: url("https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/35852477_1182426195232900_6978636452234002432_n.jpg?_nc_cat=102&_nc_ohc=z8a8k9M3lHUAQn63gwhQco5zs8Bs0-RLsBd2rOzP6Pguo0j4PSSS15cEQ&_nc_ht=scontent-mxp1-1.xx&oh=9a5cf3be627f5b9f87b890b2b1b71c9b&oe=5E82D9B5");
+}
+
+#tagliereBG{
+  background-image: url("https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/35265249_1178682885607231_6192034018268020736_n.jpg?_nc_cat=106&_nc_ohc=FClGrgXuyUIAQkA5QMXVmNJD3rfkZxIck697KG8D6bmXc2eGf31EmkIew&_nc_ht=scontent-mxp1-1.xx&oh=fb2ab047da04cc3b05bd8bfc41637945&oe=5E4DD83D");
+  background-size: cover;
+}
+#famigliaBG{
+  background-image: url("../img/famiglia.png");
+  background-size: cover;
+}
